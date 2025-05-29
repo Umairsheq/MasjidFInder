@@ -1,6 +1,6 @@
-# 🕌 Masjid Finder
+# 🕌 MasjidConnect
 
-A beautiful and simple web application to help Muslims find masjids and their prayer times. Built with modern web technologies and cloud storage.
+A beautiful and simple web application to help people find masjids and their prayer times. Built with modern web technologies and cloud storage.
 
 ## ✨ Features
 
